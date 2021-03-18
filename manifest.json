@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Mineiro Uai",
+    "description": "Mineiro Uai",
+    "author": "André Mendes Marcondes",
+    "browser_action": {
+        "default_title": "Mineiro Uai",
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
